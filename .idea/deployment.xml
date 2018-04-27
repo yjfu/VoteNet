@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="smartcar_x">
+    <serverData>
+      <paths name="Copy of project-level server 'smartcar_x'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="." local="$PROJECT_DIR$" web="/home/smartcar/fuyj/VoteNet" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="smartcar_x">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/home/smartcar/fuyj/VoteNet" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
